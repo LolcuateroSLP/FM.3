@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.77c0c2c52bddd3d32e64c937e390793e.js"
+  "/FM.3/precache-manifest.1d99a91d67a065b35ab37dd48d2c569c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "transpais-wics"});
